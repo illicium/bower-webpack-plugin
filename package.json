@@ -1,6 +1,6 @@
 {
   "name": "bower-webpack-plugin",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Use bower with webpack",
   "main": "lib/bower-plugin.js",
   "devDependencies": {
@@ -34,10 +34,7 @@
     "email": "lpiepiora@gmail.com",
     "url": "https://github.com/lpiepiora"
   },
-  "license": {
-    "type": "MIT",
-    "url": "http://www.opensource.org/licenses/mit-license.php"
-  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lpiepiora/bower-webpack-plugin/issues"
   },
